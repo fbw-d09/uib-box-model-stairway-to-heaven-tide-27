@@ -1,0 +1,31 @@
+.kvadrat{
+border: 10px solid palevioletred;
+width: 500px;
+height: 500px;
+
+}
+
+div{
+    width: 25%;
+    height: 25%;
+    background-color: lime;
+}
+
+#klein1{
+    margin-left: 75%;
+}
+
+#klein2{
+    margin-left: 50%;
+    border: 5px solid gray;
+    box-sizing: border-box;  
+}
+
+#klein3{
+    margin-left: 25%;    
+}
+
+#klein4{
+    border: 5px solid gray;
+    box-sizing: border-box;
+}
